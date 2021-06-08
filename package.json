@@ -1,0 +1,20 @@
+{
+  "name": "bytebank",
+  "version": "1.0.0",
+  "description": "sistema para clientes da bytebank",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EduardoBrugneroto/sitemaSimplesBanco.git"
+  },
+  "author": "Edaurdo Brugneroto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EduardoBrugneroto/sitemaSimplesBanco/issues"
+  },
+  "homepage": "https://github.com/EduardoBrugneroto/sitemaSimplesBanco#readme",
+  "type": "module"
+}
